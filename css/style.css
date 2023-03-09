@@ -4,11 +4,7 @@
 }
 
 body {
-    background-image: url("../img/fondo3.jpg");
-    width: 100%;
-    height: 100vh;
-    /*background-repeat: no-repeat;*/
-    background-size: cover;
+    background-color: darkgray;
 }
 
 .omg {
@@ -22,7 +18,7 @@ body {
     width: 100%;
     background-color: rgb(87, 87, 87);
     height: 58px;
-    box-shadow: 0px 20px 20px blueviolet;
+    box-shadow: 0px 20px 20px rgb(0, 0, 0);
 
 }
 
@@ -94,7 +90,7 @@ ul, ol {
     width: 1400px;
     height: 2000px;
     margin-top: 35px;
-    box-shadow: 20px 20px 20px blueviolet;
+    box-shadow: 20px 20px 20px rgb(0, 0, 0);
     margin-bottom: 50px;
 
     
